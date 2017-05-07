@@ -1,0 +1,46 @@
+jueves 23 / febrero:
+
+- Administración Proy. 
+	Entrega : 24 de febrero
+	* Revisar especificación de requerimientos - andre
+	* Revisar Matriz de trazabilidad - andre
+	* Hacer Acta de declaración de alcances - yair
+
+- Desarrollo de aplicaciones: 
+	Entrega 10 de Marzo
+	* Mokups de aplicación móvil - Luis
+	* Cambios en diseño de la web - estilos generales (setclic, .js) 
+	* Módulo de suscripción (web y móvil) - Estructurar - Aaron
+	* Revisar Ortografía Web
+
+- Ingeniería de Software:
+	* Creación de diagramas (móvil): - Andre
+		° Casos de uso (listo)
+		° Secuencia (listo)
+		° Colaboración
+		° Estados
+		° Componentes (también web)
+		° Objetos (también web)
+		° Despliegue (también web)
+	* Caja del software - Luis
+	* Revisión manual de usuario - Diosemir (terminar glosario)
+	* Seguridad de la web - Luis
+	* Estandarización de codificación
+
+Viernes 24 / febrero:
+
+- Administración de proyectos:
+	* WBS del proyecto - Diosemir
+	* Diccionario WBS (simplificado) - Diosemir
+	* Línea base del proyecto - diosemir
+	* Cronograma del proyecto
+	* Línea base del cronograma - Aaron
+	* Secuenciación de actividades - Aaron
+
+jueves 2 / Marzo:
+
+
+
+viernes 3 / Marzo:
+
+
