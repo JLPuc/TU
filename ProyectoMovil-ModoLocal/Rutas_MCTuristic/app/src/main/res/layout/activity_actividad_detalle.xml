@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:fitsSystemWindows="true"
+tools:context="com.mastercoder.rutas_mcturistic.view.fragment.Fragment_Servicios.DetalleServicio">
+
+    <ImageView
+        android:id="@+id/foto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         />
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_marginTop="@dimen/margen_superior_toolbar"
+        android:background="@android:color/transparent"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <GridLayout
+        android:id="@+id/grilla"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="#90000000"
+        android:columnCount="3"
+        android:padding="@dimen/norma_1"
+        android:rowCount="4">
+
+        <TextView
+            android:id="@+id/titulo_imagen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_columnSpan="3"
+            android:paddingBottom="@dimen/norma_1"
+            android:text="Título Imagen"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/color_claro" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/avatar"
+            android:layout_width="@dimen/dimension_avatar_detalle"
+            android:layout_height="@dimen/dimension_avatar_detalle"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="@dimen/norma_1"
+            android:layout_marginRight="@dimen/norma_1"
+            android:layout_rowSpan="2"
+            />
+
+        <TextView
+            android:id="@+id/texto_marca_usuario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_columnSpan="2"
+            android:layout_gravity="center_vertical"
+            android:layout_row="1"
+            android:text="@string/marca_usuario"
+            android:textColor="@color/color_claro"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tiempoExistencia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_columnSpan="2"
+            android:layout_gravity="center_vertical"
+            android:layout_row="2"
+            android:text="n tiempo atrás"
+            android:textColor="#918E89"
+            android:textSize="14sp" />
+
+
+
+
+
+        <TextView
+            android:id="@+id/noLikes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_row="3"
+            android:paddingTop="@dimen/norma_3"
+            android:textColor="@color/color_claro"
+            android:textSize="15sp" />
+    </GridLayout>
+
+
+
+</android.support.design.widget.CoordinatorLayout>

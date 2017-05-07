@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <!--Valores validos para los tres iconos de la aplicación-->
+
+    <tab
+        id="@+id/inicio_sitios"
+        title="@string/tab_home_profctos"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_cathedral_filled_50"
+        />
+    <tab
+        id="@+id/hoteles"
+        title="@string/tab_hoteles"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/hotel"
+        />
+
+    <tab
+        id="@+id/Restaurantes"
+        title="@string/tab_restaurantes"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/restauran"
+        />
+
+    <tab
+        id="@+id/Bares"
+        title="@string/tab_bares"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/bar"
+        />
+</tabs>
+
+

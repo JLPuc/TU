@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "248589474861",
+    "firebase_url": "https://mcturistic-638c9.firebaseio.com",
+    "project_id": "mcturistic-638c9",
+    "storage_bucket": "mcturistic-638c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248589474861:android:acd726f84789c837",
+        "android_client_info": {
+          "package_name": "com.example.luispuc.mcturisticrutasturiricas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248589474861-i0h6vt203cipsckbkm19m1486eje087b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "248589474861-4mv6jrk2447f3oh8oa8dronofdo58tmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.luispuc.mcturisticrutasturiricas",
+            "certificate_hash": "a83257494d1347072ac91f6377bff01415181d1b"
+          }
+        },
+        {
+          "client_id": "248589474861-7sg07s6bp7pbtrlk90o32bcoq2c0o50h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-r-MulBI5lDMIrbkmwHxh8OxOOcsVkI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248589474861-i0h6vt203cipsckbkm19m1486eje087b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248589474861:android:f683becba51bdaba",
+        "android_client_info": {
+          "package_name": "com.mastercoder.rutas_mcturistic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248589474861-jarjjgp1c7b96ups6kou5q7qf7ukebrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mastercoder.rutas_mcturistic",
+            "certificate_hash": "a83257494d1347072ac91f6377bff01415181d1b"
+          }
+        },
+        {
+          "client_id": "248589474861-i0h6vt203cipsckbkm19m1486eje087b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "248589474861-7sg07s6bp7pbtrlk90o32bcoq2c0o50h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-r-MulBI5lDMIrbkmwHxh8OxOOcsVkI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248589474861-i0h6vt203cipsckbkm19m1486eje087b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

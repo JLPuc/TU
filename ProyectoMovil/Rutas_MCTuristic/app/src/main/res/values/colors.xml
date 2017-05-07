@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#32CFFA</color>
+    <color name="colorPrimaryDark">#32cffa</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="editTextColorWhite">#FFFFFF</color>
+    <color name="editTextColorBlack">#000000</color>
+    <color name="backgroundtext_card">#53292929</color>
+
+
+    <color name="colorAcento">#FAAC64</color>
+    <color name="tinte_icono_favorito">#E91E63</color>
+    <color name="tinte_icono_comentario">#4083A9</color>
+
+    <color name="color_claro">#FFFFFF</color>
+</resources>

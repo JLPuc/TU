@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/activity_container"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.mastercoder.rutas_mcturistic.view.EventosMain">
+
+
+    <FrameLayout
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/bottombar_height"
+    >
+
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/btnDate"
+            android:layout_width="62dp"
+            android:layout_height="52dp"
+            android:clickable="true"
+            app:backgroundTint="@color/cast_libraries_material_featurehighlight_outer_highlight_default_color"
+            app:fabSize="mini"
+            app:rippleColor="@color/wallet_link_text_light"
+            app:srcCompat="@drawable/fecha_w"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="20dp"
+            android:layout_gravity="right"/>
+
+</FrameLayout>
+
+
+
+<!--Agrega el layout para poder mostrar la vista-->
+<include layout="@layout/buttombar"></include>
+
+
+</RelativeLayout>

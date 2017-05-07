@@ -1,0 +1,189 @@
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.csprojResolveAssemblyReference.cache
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.dll.licenses
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.dll.config
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.XmlSerializers.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.pdb
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Data.v16.1.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Printing.v16.1.Core.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Web.ASPxThemes.v16.1.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Web.Resources.v16.1.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Web.v16.1.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Office.v16.1.Core.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Data.v16.1.xml
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Printing.v16.1.Core.xml
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.RichEdit.v16.1.Core.xml
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Web.v16.1.xml
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Office.v16.1.Core.xml
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Web.v16.1.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Web.v16.1.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Web.v16.1.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Web.v16.1.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.dll
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.pdb
+C:\Users\Luis Puc\Desktop\Escritorio\MCTuriscti\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.XmlSerializers.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.dll.config
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.XmlSerializers.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.pdb
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Data.v16.1.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Printing.v16.1.Core.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Web.ASPxThemes.v16.1.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Web.Resources.v16.1.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Web.v16.1.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\Firebase-Cloud-Messaging-Net.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\Newtonsoft.Json.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Office.v16.1.Core.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Data.v16.1.xml
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Printing.v16.1.Core.xml
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.RichEdit.v16.1.Core.xml
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Web.v16.1.xml
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\Newtonsoft.Json.xml
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Office.v16.1.Core.xml
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Web.v16.1.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Web.v16.1.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Web.v16.1.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Web.v16.1.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.dll.licenses
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.dll
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.pdb
+C:\Users\Andre\Documents\GitHub\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.XmlSerializers.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.dll.config
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.XmlSerializers.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.pdb
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Core.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Office.v16.1.Core.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Data.v16.1.xml
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Printing.v16.1.Core.xml
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.RichEdit.v16.1.Core.xml
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Web.v16.1.xml
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\Newtonsoft.Json.xml
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Core.xml
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Office.v16.1.Core.xml
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Data.v16.1.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Data.v16.1.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Data.v16.1.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Data.v16.1.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Web.v16.1.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Web.v16.1.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Web.v16.1.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Web.v16.1.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.csprojResolveAssemblyReference.cache
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.dll.licenses
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.dll
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.pdb
+C:\Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.XmlSerializers.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.dll.config
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.XmlSerializers.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\MCTuristic_Centro_Historico.pdb
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Core.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Office.v16.1.Core.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Data.v16.1.xml
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Printing.v16.1.Core.xml
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.RichEdit.v16.1.Core.xml
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Web.v16.1.xml
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\Newtonsoft.Json.xml
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Core.xml
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Office.v16.1.Core.xml
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Data.v16.1.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Data.v16.1.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Data.v16.1.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Data.v16.1.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Web.v16.1.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Web.v16.1.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Web.v16.1.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Web.v16.1.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\bin\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.csprojResolveAssemblyReference.cache
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.dll.licenses
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.dll
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.pdb
+C:\Proyectos Android\MaquinaFuegoxD\Proyecto0.1\MCTuristic_Centro_Historico\MCTuristic_Centro_Historico\obj\Release\MCTuristic_Centro_Historico.XmlSerializers.dll

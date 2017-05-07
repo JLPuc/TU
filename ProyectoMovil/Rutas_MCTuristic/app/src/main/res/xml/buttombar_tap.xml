@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+
+    <!--Valores validos para los iconos de la aplicación  al incio-->
+    <tab
+        id="@+id/idMaps"
+        title="@string/tab_map"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/maps"
+        />
+
+    <tab
+        id="@+id/search"
+        title="@string/tab_event"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/eventos"
+        />
+
+    <tab
+        id="@+id/home"
+        title="@string/tab_home"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_cathedral_filled_50"
+        />
+
+    <tab
+        id="@+id/profile"
+        title="@string/tab_profile"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/servicios"
+        />
+</tabs>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="mcturistic" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Android\\MaquinaFuegoxD\\Proyecto0\.1\\MCTuristic_Centro_Historico\\MCTuristic_Centro_Historico\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Android\\MaquinaFuegoxD\\Proyecto0\.1\\MCTuristic_Centro_Historico\\MCTuristic_Centro_Historico\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

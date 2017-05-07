@@ -1,0 +1,19 @@
+- La aplicación debe hacer todo el trabajo, el usuario no debe ingresar casi nada de información (recomendador automático)
+
+- Designar distancia del usuario a los lugares de su alrededor. También asignar un radio de alcance para visualizar esos sitios a partir de la posición del usuario.
+
+- horario de comida, recomendar lugares de comida regional. Acordar disposición de los lugares de comida.
+
+- cada determinado tiempo la app manda una solicitud a la ws y responde si hay algo cercano para recomendar (puntos de interes).
+	- Eventos (en menos de 30 min)
+	- Sitios históricos
+	- Esquinas
+	- Museos
+
+- guía para llegar a algún lugar de interes. El usuario selecciona el lugar y la app lo guía por medio de google maps.
+
+- apartado de compartir lugar en las redes sociales. (tomar foto y dejar sello de la app)
+
+- si le gusta el lugar visitado all usuario, permitirle descargar una archivo pdf ligero.
+
+- 
